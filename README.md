@@ -18,6 +18,12 @@
 - execute command "php artisan serve", kemudian jalankan project sesuai url yang ada pada terminal
 - enjoy :)
 
+## Project Notes
+- semua password di set menjadi "testing123", jadi bisa login menggunakan email yang digenerate ke database (seeder), passwordnya "testing123"
+- untuk dapat melihat fitur report, login sebagai admin dengan credentials sebagai berikut:
+    - email: "admin@gmail.com"
+    - password: "testing123"
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
