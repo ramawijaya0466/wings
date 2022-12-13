@@ -12,7 +12,7 @@
 - execute command "php artisan key:generate"
 - execute command "php artisan migrate"
 - execute command "php artisan db:seed"
-- execute command "php artisan serve", jalankan project sesuai url yang ada pada terminal,
+- execute command "php artisan serve", kemudian jalankan project sesuai url yang ada pada terminal
 - enjoy :)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
