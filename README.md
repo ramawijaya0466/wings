@@ -1,4 +1,5 @@
 ## Panduan Setup Project
+- project ini dibuat dengan PHP versi 7.4 dan Laravel Framework versi 8
 - clone repository dengan execute command "git clone https://github.com/ramawijaya0466/wings.git"
 - copy file ".env.example" dan rename hasil copy menjadi ".env"
 - setup file ".env"
