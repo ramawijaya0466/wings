@@ -2,7 +2,7 @@
 - clone repository dengan execute command "git clone https://github.com/ramawijaya0466/wings.git"
 - copy file ".env.example" dan rename hasil copy menjadi ".env"
 - setup file ".env"
-    -   DB_CONNECTION=mysql     (database menggunkan mysql)
+    -   DB_CONNECTION=mysql     (default database menggunakan mysql)
     -   DB_HOST=127.0.0.1       (default)
     -   DB_PORT=8889            (sesuaikan dengan port local anda)
     -   DB_DATABASE=wings       (sesuaikan dengan database local anda)
