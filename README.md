@@ -1,3 +1,20 @@
+## Panduan Setup Project
+- clone repository dengan execute command "git clone https://github.com/ramawijaya0466/wings.git"
+- copy file ".env.example" dan rename hasil copy menjadi ".env"
+- setup file ".env"
+    DB_CONNECTION=mysql // database menggunkan mysql
+    DB_HOST=127.0.0.1   // default
+    DB_PORT=8889        // sesuaikan dengan port local anda
+    DB_DATABASE=wings   // sesuaikan dengan database local anda
+    DB_USERNAME=root    // sesuaikan dengan database username local anda
+    DB_PASSWORD=root    // sesuaikan dengan database password local anda
+- buka terminal, masuk ke root directory project
+- execute command "php artisan key:generate"
+- execute command "php artisan migrate"
+- execute command "php artisan db:seed"
+- execute command "php artisan serve", jalankan project sesuai url yang ada pada terminal,
+- enjoy :)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
