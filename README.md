@@ -9,6 +9,9 @@
     -   DB_USERNAME=root        (sesuaikan dengan database username local anda)
     -   DB_PASSWORD=root        (sesuaikan dengan database password local anda)
 - buka terminal, masuk ke root directory project
+- execute command "composer install"
+- execute command "npm install"
+- execute command "npm run dev"
 - execute command "php artisan key:generate"
 - execute command "php artisan migrate"
 - execute command "php artisan db:seed"
